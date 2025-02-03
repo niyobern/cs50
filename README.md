@@ -9,6 +9,7 @@ A C program that converts between different number systems:
 - Binary to Decimal
 - Binary to Hexadecimal
 - Decimal to Hexadecimal
+- and finaly, Binary to Hexadecimal
 
 ### Functions
 
