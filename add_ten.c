@@ -5,7 +5,7 @@ int add_ten(int x);
 int main()
 {
     int x;
-    printf("Enter a number: ");
+    printf("Enter a number and we will add 10 to the number: ");
     scanf("%d", &x);
     int result = add_ten(x);
     printf("%d\n", result);
